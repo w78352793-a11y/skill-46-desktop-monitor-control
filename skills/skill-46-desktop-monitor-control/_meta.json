@@ -1,0 +1,11 @@
+{
+  "ownerId": "marvis-skill46",
+  "slug": "skill-46-desktop-monitor-control",
+  "name": "技能46·桌面实时监控与操控",
+  "version": "1.0.0",
+  "publishedAt": 1761800000000,
+  "originalSlug": "desktop-control",
+  "localized": true,
+  "language": "zh-CN",
+  "description": "整合 desktop-control 操控能力与变化触发/UI钩子双监控方案的一体化桌面技能"
+}
